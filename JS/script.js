@@ -35,6 +35,9 @@ function insertarCarrito(elemento){
     row.innerHTML = `
     <td>
         <img src= "${elemento.image}" width=100 />
-    </td>`
+    </td>
+    
+    <td>
+    <td>`
 }
 
